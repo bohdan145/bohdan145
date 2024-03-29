@@ -5,9 +5,9 @@ I have over 7 years of experience in developing mobile and web applications with
 
 ## Skills 🦾
 
-<table style="width: 100%!important;">
+<table border="0">
  <tr>
-    <td width="50%">
+    <td>
       <ul>
         <li>✅ Mobile and web development</li>
         <li>✅ JavaScript, TypeScript, React.js, React Native, Next.js</li>
@@ -19,8 +19,8 @@ I have over 7 years of experience in developing mobile and web applications with
         <li>✅ Collaboration with cross-functional teams</li>
       </ul>
     </td>
-   <td width="50%" style="text-align: center!important;">
-     <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,nextjs,firebase,npm,git,github,bitbucket,gitlab,vscode&perline=5" />
+   <td width="400">
+    <p align="center"><img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,nextjs,firebase,npm,git,github,bitbucket,gitlab,vscode&perline=6" /></p>
    </td>
  </tr>
 </table>
