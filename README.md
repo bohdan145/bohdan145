@@ -5,14 +5,25 @@ I have over 7 years of experience in developing mobile and web applications with
 
 ## Skills 🦾
 
-- ✅ Mobile and web development
-- ✅ JavaScript, TypeScript, React.js, React Native, Next.js
-- ✅ Redux (Thunk, Saga), MobX, Zustand
-- ✅ Critical thinking skills
-- ✅ Ability to navigate various data environments
-- ✅ Hands-on technical ability in data
-- ✅ Understanding of clients' business
-- ✅ Collaboration with cross-functional teams
+<table style="width: 100%!important;">
+ <tr>
+    <td width="50%">
+      <ul>
+        <li>✅ Mobile and web development</li>
+        <li>✅ JavaScript, TypeScript, React.js, React Native, Next.js</li>
+        <li>✅ Redux (Thunk, Saga), MobX, Zustand</li>
+        <li>✅ Critical thinking skills</li>
+        <li>✅ Ability to navigate various data environments</li>
+        <li>✅ Hands-on technical ability in data</li>
+        <li>✅ Understanding of clients' business</li>
+        <li>✅ Collaboration with cross-functional teams</li>
+      </ul>
+    </td>
+   <td width="50%" style="text-align: center!important;">
+     <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,nextjs,firebase,npm,git,github,bitbucket,gitlab,vscode&perline=5" />
+   </td>
+ </tr>
+</table>
 
 ## Work Experience
 
