@@ -7,8 +7,9 @@ I have over 7 years of experience in developing mobile and web applications with
 
 <table border="0">
  <tr>
-    <td>
+    <td width="525">
       <ul>
+        <br/>
         <li>✅ Mobile and web development</li>
         <li>✅ JavaScript, TypeScript, React.js, React Native, Next.js</li>
         <li>✅ Redux (Thunk, Saga), MobX, Zustand</li>
@@ -17,10 +18,11 @@ I have over 7 years of experience in developing mobile and web applications with
         <li>✅ Hands-on technical ability in data</li>
         <li>✅ Understanding of clients' business</li>
         <li>✅ Collaboration with cross-functional teams</li>
+        <br/>
       </ul>
     </td>
-   <td width="400">
-    <p align="center"><img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,nextjs,firebase,npm,git,github,bitbucket,gitlab,vscode&perline=6" /></p>
+   <td width="500">
+    <p align="center"><img width="80%" src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,nextjs,firebase,npm,git,github,bitbucket,gitlab,vscode&perline=6" /></p>
    </td>
  </tr>
 </table>
